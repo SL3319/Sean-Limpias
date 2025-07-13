@@ -1,4 +1,6 @@
-# Sean-Limpias 
+---
+layout: home
+title: Sean-Limpias
+---
 
-
-In this blog I will go over some things that have helped me along the way of my Cyber Security journey from home labs to cyber security execises. TEST
+In this blog I will go over some things that have helped me along the way...
